@@ -1,3 +1,4 @@
+
 .our-story {
     background-color: #fbfaf8;
 }
@@ -40,4 +41,17 @@ font-style: normal;
 font-weight: 700;
 line-height: 56px;
 color: white;
+
+.content-display {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 11111;
+}
+
+.underline {
+  text-decoration: underline;
+}
+.text-darkgreen {
+  color: #394e49;
 }
