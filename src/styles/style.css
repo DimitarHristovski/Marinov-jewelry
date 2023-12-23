@@ -203,6 +203,7 @@
   transform: translate(-50%, -50%);
   z-index: 11111;
   background-color: rgb(255, 255, 255);
+  border-radius: 16px 0px 16px 0px;
 }
 .content-display-top-right {
   top: 20%;
@@ -224,7 +225,9 @@
 }
 .btn-brown {
   background-color: #3c1913;
+  border-radius: 16px 0px 16px 0px;
 }
+
 .text-brown {
   color: #394e49;
 }
@@ -319,4 +322,9 @@ form {
   background-color: #3c1913;
   width: 166px;
   height: 44px;
+}
+.btn-main {
+  border-radius: 16px 0px 16px 0px;
+  border: 2px solid #9b4923;
+  color: #9b4923;
 }

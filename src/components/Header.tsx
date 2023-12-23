@@ -55,7 +55,9 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Jewerly</a>
+              <Link href="/Jewelry">
+                <a className="nav-link">Jewerly</a>{" "}
+              </Link>
             </li>
             <li className="nav-item">
               <Link href="/HomeDecor">
@@ -64,7 +66,9 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Custom orders</a>
+              <Link href="/custom">
+                <span className="nav-link">Custom orders</span>
+              </Link>
             </li>
             <li className="nav-item">
               <Link href="/ourstory">
@@ -72,7 +76,9 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">FAQ</a>
+              <Link href="/faq">
+                <span className="nav-link">FAQ</span>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link">Contact</a>

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Footer = () => {
@@ -17,7 +18,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="row">
+      <div className="row mx-1">
         <div className="col-12">
           <h1 className="text-uppercase my-2">Marinov</h1>
           <div className="d-flex justify-content-between">
@@ -45,9 +46,15 @@ const Footer = () => {
           <p>Other</p>
         </div>
         <div className="col-12 d-flex flex-column text-uppercase">
-          <h3>Custom Orders</h3>
-          <h3>Our story</h3>
-          <h3>FAQ</h3>
+          <Link href="/custom">
+            <h3>Custom Orders</h3>{" "}
+          </Link>
+          <Link href="/ourstory">
+            <h3>Our story</h3>
+          </Link>
+          <Link href="/faq">
+            <h3>FAQ</h3>
+          </Link>
           <h3>Contact</h3>
           <h3>Profile</h3>
         </div>
