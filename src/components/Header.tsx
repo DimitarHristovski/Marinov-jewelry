@@ -1,6 +1,6 @@
+import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
-import { Link } from "react-router-dom";
 
 const Header = () => {
   const [isCollapsed, setCollapsed] = useState(true);
@@ -56,13 +56,18 @@ const Header = () => {
               <a className="nav-link">Jewerly</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Home decor</a>
+              <Link href="/HomeDecor">
+                {" "}
+                <span className="nav-link">Home decor</span>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link">Custom orders</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Our story</a>
+              <Link href="/ourstory">
+                <span className="nav-link">Our story</span>{" "}
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link">FAQ</a>
