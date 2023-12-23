@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import styles from './style.module.css';
 
-
 const FaqPage = () => {
   const [collapseOne, setCollapseOne] = useState(false);
   const [collapseTwo, setCollapseTwo] = useState(false);
@@ -45,7 +44,7 @@ const FaqPage = () => {
               data-parent="#accordionExample"
             >
               <div className="card-body">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur eros et suscipit dignissim. Donec dui est, pellentesque ut ipsum vel, bibendum imperdiet ligula.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur eros et suscipit dignissim. Donec dui est, pellentesque ut ipsum vel, bibendum imperdiet ligula.
               </div>
             </div>
           </div>
@@ -73,15 +72,15 @@ const FaqPage = () => {
               data-parent="#accordionExample"
             >
               <div className="card-body">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur eros et suscipit dignissim. Donec dui est, pellentesque ut ipsum vel, bibendum imperdiet ligula.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur eros et suscipit dignissim. Donec dui est, pellentesque ut ipsum vel, bibendum imperdiet ligula.
               </div>
             </div>
           </div>
           <div className="card faq-card text-muted">
-            <div className="card-header" id="headingTwo">
+            <div className="card-header" id="headingThree">
               <h5 className="mb-0">
                 <button
-                  className={`btn font-1 ${collapseTwo ? '' : 'collapsed'}`}
+                  className={`btn font-1 ${collapseThree ? '' : 'collapsed'}`}
                   type="button"
                   onClick={toggleCollapseThree}
                   data-toggle="collapse"
@@ -101,7 +100,7 @@ const FaqPage = () => {
               data-parent="#accordionExample"
             >
               <div className="card-body">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur eros et suscipit dignissim. Donec dui est, pellentesque ut ipsum vel, bibendum imperdiet ligula.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur efficitur eros et suscipit dignissim. Donec dui est, pellentesque ut ipsum vel, bibendum imperdiet ligula.
               </div>
             </div>
           </div>
