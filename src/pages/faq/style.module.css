@@ -1,0 +1,40 @@
+.faq-card {
+  width: 375px;
+  flex-shrink: 0;
+  text-decoration: none; /* Corrected line */
+  color: var(--Black, #232221);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 200%;
+  letter-spacing: -0.176px;
+}
+
+.font-1 {
+  text-align: justify;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  letter-spacing: -0.176px;
+}
+
+.underlineFAQ {
+  width: 100%;
+  height: 1px;
+  background-color: #232221;
+}
+
+.didnt-find {
+  font-size: 32px;
+  color: #3c1913;
+  position: relative;
+}
+
+.ask-btn {
+  color: aliceblue;
+  border-radius: 16px 0px 16px 0px;
+  background-color: #3c1913;
+  width: 166px;
+  height: 44px;
+}
