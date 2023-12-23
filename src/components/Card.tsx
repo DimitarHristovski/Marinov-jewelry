@@ -1,12 +1,24 @@
 import React from "react";
+interface CardProps {
+  id: string;
+  title: string;
+  price: number;
 
-const Card: React.FC<any> = ({ image, name, price }) => {
+  images: Array<{ [key: string]: string }>;
+}
+const Card: React.FC<CardProps> = ({ id, images, title, price }) => {
   return (
-    <div className="col-12">
-      <img src={image} alt={name} className="d-block w-100 img-fluid m-1" />
+    <div className="col-6">
+      {images.length > 0 && (
+        <img
+          src={images[0].pic1}
+          alt={title}
+          className="d-block w-100 img-fluid m-1"
+        />
+      )}
       <div className="text-left">
-        <p>{name}</p>
-        <p>{price} </p>
+        <p>{title}</p>
+        <p>€ {price}</p>
       </div>
     </div>
   );

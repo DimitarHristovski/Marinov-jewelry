@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ProductType } from "@/type/type";
+import Card from "@/components/Card";
 const HomeDecor: React.FC = () => {
   const [items, setItems] = useState<ProductType[]>([]);
   const [visibleItemCount, setVisibleItemCount] = useState(6); // Number of items to show initially
@@ -44,14 +45,17 @@ const HomeDecor: React.FC = () => {
       </div>
       <div className="row">
         {items.slice(0, visibleItemCount).map((item) => (
-          <div key={item.id} className="col-6">
-            <h3>{item.title}</h3>
-            <p>Price: {item.price}</p>
-          </div>
+          <Card
+            key={item.id}
+            id={item.id}
+            images={item.images}
+            title={item.title}
+            price={item.price}
+          />
         ))}
       </div>
       {visibleItemCount < items.length && (
-        <button onClick={loadMoreItems} className="">
+        <button onClick={loadMoreItems} className="btn btn-primary">
           Load More
         </button>
       )}
