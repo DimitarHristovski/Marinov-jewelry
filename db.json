@@ -1,0 +1,901 @@
+{
+  "marinovhome": [
+    {
+      "id": "0",
+      "date": "2023-04-12",
+      "title": "Copper Helmet - Large",
+      "price": 600.0,
+      "stock": 2,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "24 x 36 cm",
+      "weight": "3.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "date": "2023-05-12",
+      "title": "Copper Helmet - Small",
+      "price": 200.0,
+      "stock": 1,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "14 x 22 cm",
+      "weight": "1.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2023-04-12",
+      "title": "Copper Helmet - Medium",
+      "price": 400.0,
+      "stock": 3,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "18 x 28 cm",
+      "weight": "2.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "date": "2023-05-12",
+      "title": "Copper Helmet - Small",
+      "price": 400.0,
+      "stock": 1,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "14 x 22 cm",
+      "weight": "1.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "date": "2023-04-12",
+      "title": "Copper Helmet - Medium",
+      "price": 400.0,
+      "stock": 3,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "18 x 28 cm",
+      "weight": "2.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "date": "2023-04-12",
+      "title": "Copper Helmet - Large",
+      "price": 600.0,
+      "stock": 2,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "24 x 36 cm",
+      "weight": "3.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "date": "2023-04-12",
+      "title": "Copper Helmet - Large",
+      "price": 600.0,
+      "stock": 2,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "24 x 36 cm",
+      "weight": "3.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "date": "2023-04-12",
+      "title": "Copper Helmet - Medium",
+      "price": 400.0,
+      "stock": 3,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "material": "Copper,brass",
+      "dimensions": "18 x 28 cm",
+      "weight": "2.5 kg",
+      "caretips": [
+        {
+          "tip1": "Regular Dusting:",
+          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+        },
+        {
+          "tip2": "Cleaning: ",
+          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+        },
+        {
+          "tip3": "Natural Patina:",
+          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip4": "Natural Patina:",
+          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+        },
+        {
+          "tip5": "Avoid Moisture:",
+          "tip5text": " Dry thoroughly after exposure to water."
+        },
+        {
+          "tip6": "Storage:",
+          "tip6text": " Store in a cool, dry place away from direct sunligh."
+        },
+        {
+          "tip7": "No Harsh Chemicals:",
+          "tip7text": " Avoid bleach and abrasive cleaners."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/helmet1.jpg"
+        },
+        {
+          "pic2": "/images/helmet1.jpg"
+        },
+        {
+          "pic3": "/images/helmet1.jpg"
+        }
+      ]
+    }
+  ],
+  "marinovjewelry": [
+    {
+      "id": "0",
+      "date": "2023-04-12",
+      "title": "Copper Spiral & White Beads Earrings",
+      "price": 26.00,
+      "stock": 10,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip1": "Avoid Moisture:",
+          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip2": "Store Properly:",
+          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip3": "Clean Regularly:",
+          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip4": " Avoid Chemicals:",
+          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/earringsblack.jpg"
+        },
+        {
+          "pic2": "/images/earringsblack.jpg"
+        },
+        {
+          "pic3": "/images/earringsblack.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "date": "2023-04-12",
+      "title": "Copper Spiral & Black Beads Earrings",
+      "price": 26.00,
+      "stock": 10,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip1": "Avoid Moisture:",
+          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip2": "Store Properly:",
+          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip3": "Clean Regularly:",
+          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip4": " Avoid Chemicals:",
+          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/earringsblack.jpg"
+        },
+        {
+          "pic2": "/images/earringsblack.jpg"
+        },
+        {
+          "pic3": "/images/earringsblack.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2023-04-12",
+      "title": "Copper & Pearl Earrings",
+      "price": 28.80,
+      "stock": 5,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip1": "Avoid Moisture:",
+          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip2": "Store Properly:",
+          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip3": "Clean Regularly:",
+          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip4": " Avoid Chemicals:",
+          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/earringsblack.jpg"
+        },
+        {
+          "pic2": "/images/earringsblack.jpg"
+        },
+        {
+          "pic3": "/images/earringsblack.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "date": "2023-04-12",
+      "title": "Copper & Brown Agate Earrings",
+      "price": 32.00,
+      "stock": 5,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip1": "Avoid Moisture:",
+          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip2": "Store Properly:",
+          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip3": "Clean Regularly:",
+          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip4": " Avoid Chemicals:",
+          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/earringsblack.jpg"
+        },
+        {
+          "pic2": "/images/earringsblack.jpg"
+        },
+        {
+          "pic3": "/images/earringsblack.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "date": "2023-04-12",
+      "title": "Copper & Brass Plate Earrings",
+      "price": 18.00,
+      "stock": 5,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip1": "Avoid Moisture:",
+          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip2": "Store Properly:",
+          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip3": "Clean Regularly:",
+          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip4": " Avoid Chemicals:",
+          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/earringsblack.jpg"
+        },
+        {
+          "pic2": "/images/earringsblack.jpg"
+        },
+        {
+          "pic3": "/images/earringsblack.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "date": "2023-04-12",
+      "title": "Copper & Brass Wire Earrings",
+      "price": 22.00,
+      "stock": 5,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip1": "Avoid Moisture:",
+          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip2": "Store Properly:",
+          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip3": "Clean Regularly:",
+          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip4": " Avoid Chemicals:",
+          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic1": "/images/earringsblack.jpg"
+        },
+        {
+          "pic2": "/images/earringsblack.jpg"
+        },
+        {
+          "pic3": "/images/earringsblack.jpg"
+        }
+      ]
+    },
+    {
+        "id": "6",
+        "date": "2023-04-12",
+        "title": "Copper & Aventurine Earrings",
+        "price": 30.00,
+        "stock": 5,
+        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+        "material": "Copper,brass,faux pearl",
+        "dimensions": "approx. 7 cm",
+        "weight": "14 g(per pair)",
+        "caretips": [
+          {
+            "tip1": "Avoid Moisture:",
+            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          },
+          {
+            "tip2": "Store Properly:",
+            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          },
+          {
+            "tip3": "Clean Regularly:",
+            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          },
+          {
+            "tip4": " Avoid Chemicals:",
+            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          }
+        ],
+        "images": [
+          {
+            "pic1": "/images/earringsblack.jpg"
+          },
+          {
+            "pic2": "/images/earringsblack.jpg"
+          },
+          {
+            "pic3": "/images/earringsblack.jpg"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "date": "2023-04-12",
+        "title": "Copper & Brass Earrings",
+        "price": 20.00,
+        "stock": 5,
+        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+        "material": "Copper,brass,faux pearl",
+        "dimensions": "approx. 7 cm",
+        "weight": "14 g(per pair)",
+        "caretips": [
+          {
+            "tip1": "Avoid Moisture:",
+            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          },
+          {
+            "tip2": "Store Properly:",
+            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          },
+          {
+            "tip3": "Clean Regularly:",
+            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          },
+          {
+            "tip4": " Avoid Chemicals:",
+            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          }
+        ],
+        "images": [
+          {
+            "pic1": "/images/earringsblack.jpg"
+          },
+          {
+            "pic2": "/images/earringsblack.jpg"
+          },
+          {
+            "pic3": "/images/earringsblack.jpg"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "date": "2023-04-12",
+        "title": "Copper & Calcite Earrings",
+        "price": 30.00,
+        "stock": 0,
+        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+        "material": "Copper,brass,faux pearl",
+        "dimensions": "approx. 7 cm",
+        "weight": "14 g(per pair)",
+        "caretips": [
+          {
+            "tip1": "Avoid Moisture:",
+            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          },
+          {
+            "tip2": "Store Properly:",
+            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          },
+          {
+            "tip3": "Clean Regularly:",
+            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          },
+          {
+            "tip4": " Avoid Chemicals:",
+            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          }
+        ],
+        "images": [
+          {
+            "pic1": "/images/earringsblack.jpg"
+          },
+          {
+            "pic2": "/images/earringsblack.jpg"
+          },
+          {
+            "pic3": "/images/earringsblack.jpg"
+          }
+        ]
+      },{
+        "id": "9",
+        "date": "2023-04-12",
+        "title": "Copper Spiral & Pale Jade Beads Earrings",
+        "price": 35.00,
+        "stock": 0,
+        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+        "material": "Copper,brass,faux pearl",
+        "dimensions": "approx. 7 cm",
+        "weight": "14 g(per pair)",
+        "caretips": [
+          {
+            "tip1": "Avoid Moisture:",
+            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          },
+          {
+            "tip2": "Store Properly:",
+            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          },
+          {
+            "tip3": "Clean Regularly:",
+            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          },
+          {
+            "tip4": " Avoid Chemicals:",
+            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          }
+        ],
+        "images": [
+          {
+            "pic1": "/images/earringsblack.jpg"
+          },
+          {
+            "pic2": "/images/earringsblack.jpg"
+          },
+          {
+            "pic3": "/images/earringsblack.jpg"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "date": "2023-04-12",
+        "title": "Copper & Brass Earrings",
+        "price": 16.00,
+        "stock": 2,
+        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+        "material": "Copper,brass,faux pearl",
+        "dimensions": "approx. 7 cm",
+        "weight": "14 g(per pair)",
+        "caretips": [
+          {
+            "tip1": "Avoid Moisture:",
+            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          },
+          {
+            "tip2": "Store Properly:",
+            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          },
+          {
+            "tip3": "Clean Regularly:",
+            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          },
+          {
+            "tip4": " Avoid Chemicals:",
+            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          }
+        ],
+        "images": [
+          {
+            "pic1": "/images/earringsblack.jpg"
+          },
+          {
+            "pic2": "/images/earringsblack.jpg"
+          },
+          {
+            "pic3": "/images/earringsblack.jpg"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "date": "2023-04-12",
+        "title": "Copper Triangle Earrings",
+        "price": 20.00,
+        "stock": 2,
+        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+        "material": "Copper,brass,faux pearl",
+        "dimensions": "approx. 7 cm",
+        "weight": "14 g(per pair)",
+        "caretips": [
+          {
+            "tip1": "Avoid Moisture:",
+            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          },
+          {
+            "tip2": "Store Properly:",
+            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          },
+          {
+            "tip3": "Clean Regularly:",
+            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          },
+          {
+            "tip4": " Avoid Chemicals:",
+            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          }
+        ],
+        "images": [
+          {
+            "pic1": "/images/earringsblack.jpg"
+          },
+          {
+            "pic2": "/images/earringsblack.jpg"
+          },
+          {
+            "pic3": "/images/earringsblack.jpg"
+          }
+        ]
+      }
+  ]
+}
