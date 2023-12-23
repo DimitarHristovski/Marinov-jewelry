@@ -70,7 +70,81 @@ const Custom: NextPage = () => {
               placeholder="Your message here ..."
             ></textarea>
           </div>
+
+          <div className="upload-image d-flex flex-column">
+            <label htmlFor="attach-btn">Upload Image</label>
+            <button className="attach-btn" id="attach-btn">
+              {" "}
+              + Attach images
+            </button>
+          </div>
+          <div className="form-group mt-2">
+            <label htmlFor="exampleFormControlInput4" className="form-label">
+              Send Link
+            </label>
+
+            <input
+              type="text"
+              className="form-control"
+              id="exampleFormControlInput4"
+              placeholder="https://www.example.com"
+            />
+          </div>
+          <div className="form-group mt-3 d-flex flex-column">
+            <p className="py-3 ">
+              *Due to the nature of handcrafted products, keep in mind that the
+              replicated piece may not appear exactly as shown on the photos.
+              However, we will try our best to ensure it closely resembles the
+              original!
+            </p>
+            <button className="send-request">Send request</button>
+          </div>
         </form>
+      </div>
+      <div className="gallery py-5">
+        <h2 className="p-3">Gallery</h2>
+        <div className="gallery-inner">
+          <img
+            src="/images/custom/custom gallery 1.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom orders title.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom gallery 3.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom gallery 4.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom gallery 5.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom gallery 6.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom gallery 7.jpg"
+            alt=""
+            className="gallery-image"
+          />
+          <img
+            src="/images/custom/custom gallery 8.jpg"
+            alt=""
+            className="gallery-image"
+          />
+        </div>
       </div>
     </div>
   );
