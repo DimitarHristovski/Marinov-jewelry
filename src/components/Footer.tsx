@@ -55,7 +55,9 @@ const Footer = () => {
           <Link href="/faq">
             <h3>FAQ</h3>
           </Link>
-          <h3>Contact</h3>
+          <Link href="/Contact">
+            <h3>Contact</h3>
+          </Link>
           <h3>Profile</h3>
         </div>
         <div className=" col-12 d-flex justify-content-start">
