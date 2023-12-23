@@ -98,3 +98,17 @@
   display: block;
   width: 100%;
 }
+.custom-title-inner {
+  position: relative;
+}
+.custom-title {
+  font-size: 40px;
+  font-weight: 500;
+  color: white;
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+}
+form {
+  padding: 15px;
+}
