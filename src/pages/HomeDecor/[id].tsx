@@ -5,6 +5,26 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { useState } from "react";
 
+interface CareTip {
+  title: string;
+  description: string;
+}
+
+interface Image {
+  pic1: string;
+}
+interface ProductType {
+  id: string;
+  title: string;
+  price: number;
+  stock: number;
+  description: string;
+  material: string;
+  dimensions: string;
+  weight: string;
+  caretips: CareTip[];
+  images: Image[];
+}
 interface Props {
   items: ProductType | null;
 }
@@ -31,7 +51,7 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
         <Slider {...carouselSettings}>
           {items.images.map((image, index) => (
             <div key={index}>
-              <img src={image.url} alt={image.alt} />
+              <img src={image.pic1} alt={image.pic1} />
             </div>
           ))}
         </Slider>
@@ -75,7 +95,7 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
         <h3>You Might Also Like:</h3>
         {items.images.map((image, index) => (
           <div key={index}>
-            <img src={image.url} alt={image.alt} />
+            <img src={image.pic1} alt={image.pic1} />
           </div>
         ))}
         <p>{items.title}</p>
