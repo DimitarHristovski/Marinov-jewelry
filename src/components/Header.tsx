@@ -37,11 +37,14 @@ const Header = () => {
           <img src="/images/name.png" alt="" />
         </div>
         <div className="shopping-card">
-          <img
-            src="/images/Vector.png"
-            alt="shopping-card image"
-            className="shopping-card"
-          />
+          <Link href="/Cart">
+            {" "}
+            <img
+              src="/images/Vector.png"
+              alt="shopping-card image"
+              className="shopping-card"
+            />
+          </Link>
         </div>
 
         <div
