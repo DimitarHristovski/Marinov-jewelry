@@ -46,7 +46,7 @@ const HomeDecor: React.FC = () => {
       </div>
       <div className="row">
         {items.slice(0, visibleItemCount).map((item) => (
-          <Link href={`/HomeDecor/${item.id}`} key={item.id}>
+          <Link href={`/HomeDecor/${item.id}`} key={item.id} className="col-6">
             <Card
               key={item.id}
               id={item.id}

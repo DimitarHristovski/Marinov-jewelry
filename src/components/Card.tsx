@@ -8,7 +8,7 @@ interface CardProps {
 }
 const Card: React.FC<CardProps> = ({ id, images, title, price }) => {
   return (
-    <div className="col-6">
+    <div className="col-12">
       {images.length > 0 && (
         <img
           src={images[0].pic1}
