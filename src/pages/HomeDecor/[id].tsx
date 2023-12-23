@@ -26,7 +26,7 @@ interface ProductType {
   images: Image[];
 }
 interface Props {
-  items: ProductType | null;
+  items: ProductType;
 }
 
 const ItemDetailPage: NextPage<Props> = ({ items }) => {
@@ -52,6 +52,7 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
           {items.images.map((image, index) => (
             <div key={index}>
               <img src={image.pic1} alt={image.pic1} />
+              <img src={item.image} alt={item.images} />
             </div>
           ))}
         </Slider>
