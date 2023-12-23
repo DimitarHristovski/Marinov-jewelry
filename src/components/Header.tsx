@@ -50,7 +50,9 @@ const Header = () => {
         >
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link">Home</a>
+              <Link href="/">
+                <span className="nav-link">Home</span>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link">Jewerly</a>
