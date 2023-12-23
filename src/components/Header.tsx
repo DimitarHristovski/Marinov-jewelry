@@ -23,22 +23,22 @@ const Header = () => {
           aria-label="Toggle navigation"
           onClick={toggleCollapse}
         >
-          <img src="/Header-icons/nav_item_icon.png" alt="" />
+          <img src="/images/hamburger_menu.png" alt="" />
         </button>
 
         <div className="logo">
           {asPath === "/" ? (
             <img
-              src="/Header-icons/logo_scroll.png"
+              src="/images/logo_scroll.png"
               alt="logo image"
               className="logo-image"
             />
           ) : null}
-          <img src="/Header-icons/name.png" alt="" />
+          <img src="/images/name.png" alt="" />
         </div>
         <div className="shopping-card">
           <img
-            src="/Header-icons/Vector.png"
+            src="/images/Vector.png"
             alt="shopping-card image"
             className="shopping-card"
           />
