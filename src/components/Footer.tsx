@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="container-fluid text-darkgreen">
+    <div className="text-darkgreen">
       <div className="row">
         <div className="col-12 position-relative  ">
           <div className="position-absolute d-flex flex-column content-display align-content-around ">
