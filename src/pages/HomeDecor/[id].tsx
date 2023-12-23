@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import { useState } from "react";
 
 interface Props {
-  items: ProductType | null;
+  items: ProductType;
 }
 
 const ItemDetailPage: NextPage<Props> = ({ items }) => {
@@ -31,7 +31,7 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
         <Slider {...carouselSettings}>
           {items.images.map((image, index) => (
             <div key={index}>
-              <img src={image.url} alt={image.alt} />
+              <img src={item.image} alt={item.images} />
             </div>
           ))}
         </Slider>
