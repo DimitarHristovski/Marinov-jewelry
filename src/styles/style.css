@@ -228,3 +228,57 @@
 .text-brown {
   color: #394e49;
 }
+/* *******************custom-page styles */
+.custom-text {
+  padding: 15px;
+}
+.custom-image {
+  display: block;
+  width: 100%;
+}
+.custom-title-inner {
+  position: relative;
+}
+.custom-title {
+  font-size: 40px;
+  font-weight: 500;
+  color: white;
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+}
+form {
+  padding: 15px;
+}
+.attach-btn {
+  padding: 12px 24px 12px 16px;
+  border-radius: 16px 0px 16px 0px;
+  background-color: inherit;
+  border: 1px solid #3c1913;
+  width: 179px;
+}
+.send-request {
+  padding: 12px 24px 12px 16px;
+  border-radius: 16px 0px 16px 0px;
+  background-color: #3c1913;
+  border: 1px solid #3c1913;
+  color: white;
+}
+.form-group p {
+  font-size: 14px;
+  color: #3c1913;
+}
+.gallery-inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+.gallery-image {
+  display: block;
+  width: 186px;
+  margin: 0.5px;
+  height: 186px;
+  object-fit: cover;
+}
+.brown-color {
+  color: #3c1913;
+}
