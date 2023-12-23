@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { ProductType } from "@/type/type";
 const HomeDecor: React.FC = () => {
   const [items, setItems] = useState<ProductType[]>([]);
-  const [visibleItemCount, setVisibleItemCount] = useState(5); // Number of items to show initially
+  const [visibleItemCount, setVisibleItemCount] = useState(6); // Number of items to show initially
 
   useEffect(() => {
     const fetchData = async () => {
@@ -19,7 +19,7 @@ const HomeDecor: React.FC = () => {
   }, []);
 
   const loadMoreItems = () => {
-    setVisibleItemCount((prevCount) => prevCount + 5);
+    setVisibleItemCount((prevCount) => prevCount + 6);
   };
   return (
     <div className="container-fluid">
@@ -51,7 +51,7 @@ const HomeDecor: React.FC = () => {
         ))}
       </div>
       {visibleItemCount < items.length && (
-        <button onClick={loadMoreItems} className="btn btn-primary">
+        <button onClick={loadMoreItems} className="">
           Load More
         </button>
       )}
