@@ -1,4 +1,3 @@
-import { ProductType } from "@/type/type";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -6,12 +5,14 @@ import "slick-carousel/slick/slick-theme.css";
 import { useState } from "react";
 
 interface CareTip {
-  title: string;
-  description: string;
+  tip1: string;
+  tip1text: string;
 }
 
 interface Image {
   pic1: string;
+  pic2: string;
+  pic3: string;
 }
 interface ProductType {
   id: string;
@@ -46,18 +47,26 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
     slidesToScroll: 1,
   };
   return (
-    <div className="container">
+    <div className="detail-page">
       <div>
         <Slider {...carouselSettings}>
           {items.images.map((image, index) => (
             <div key={index}>
-              <img src={image.pic1} alt={image.pic1} />
+              <img
+                src={image.pic1}
+                alt={image.pic1}
+                className="detail-image-carousel"
+              />
             </div>
           ))}
         </Slider>
       </div>
-      <h2>{items.title}</h2>
-      <p>{items.price}</p>
+      <div className="px-3">
+        <h2 className="mt-3 px-3">{items.title}</h2>
+        <p className="px-3">£ {items.price}</p>
+        <button className="add-btn"> Add to Cart </button>
+      </div>
+
       <div>
         {items.stock === 0 && (
           <div>
@@ -70,32 +79,44 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
           </div>
         )}
       </div>
-      <p>{items.description}</p>
-      <div>
-        <p>Material: {items.material}</p>
-        <p>Dimensions: {items.dimensions}</p>
-        <p>Weight: {items.weight}</p>
+
+      <div className="px-3 desc-inner">
+        <p className="pt-5">{items.description}</p>
+        <p>
+          <span>Material:</span> {items.material}
+        </p>
+        <p>
+          <span>Dimensions:</span> {items.dimensions}
+        </p>
+        <p>
+          <span>Weight:</span> {items.weight}
+        </p>
       </div>
 
-      <div>
+      <div className="px-3">
         <h4>Care & Maintenance Tips:</h4>
         <ul>
           {items.caretips.slice(0, visibleTips).map((tip, index) => (
             <li key={index}>
-              <strong>{tip.title}:</strong> {tip.description}
+              <strong>{tip.tip1}:</strong> {tip.tip1text}
             </li>
           ))}
         </ul>
-        {visibleTips < items.caretips.length && (
-          <button onClick={handleLoadMore}>Load More</button>
-        )}
+        <div className="text-center">
+          {visibleTips < items.caretips.length && (
+            <button onClick={handleLoadMore} className="show-more-btn">
+              + Show more
+            </button>
+          )}
+        </div>
+
         <p>Follow these tips for enduring beauty.</p>
       </div>
       <div>
         <h3>You Might Also Like:</h3>
         {items.images.map((image, index) => (
           <div key={index}>
-            <img src={image.pic1} alt={image.pic1} />
+            <img src={image.pic1} alt={image.pic1} className="detail-image" />
           </div>
         ))}
         <p>{items.title}</p>
