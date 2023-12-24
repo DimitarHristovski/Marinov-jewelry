@@ -1,11 +1,18 @@
 import React from "react";
+import Lottie from "lottie-react";
+import beeAnimation from "../lotties/bee_animation.json";
+import bracletAnimation from "../lotties/bracelet_animation.json";
+import helmetAnimation from "../lotties/helmet_animation.json";
+
 
 const Homepage = () => {
+  
   return (
     <div className="container">
       <div className="row">
         <div className="col-12">
-          <img src="/images/animation_bracelet.png" alt="" />
+        <Lottie className="lottieimg" animationData={bracletAnimation} />
+          {/* <img className="animation" src="/images/animation_bracelet.png" alt="" /> */}
           <div className="content-display-top-right d-flex flex-column position-absolute  p-3 w-50 text-brown text-right">
             <h3>Unique Handcrafted Jewelry</h3>
             <button className="btn btn-main">Shop Now</button>
@@ -14,7 +21,8 @@ const Homepage = () => {
       </div>
       <div className="row">
         <div className="col-12">
-          <img src="/images/animation_bee.png" alt="" />
+        <Lottie className="lottieimg2" animationData={beeAnimation} />
+          {/* <img className="animation" src="/images/animation_bee.png" alt="" /> */}
           <div className="content-display-top-left d-flex flex-column position-absolute  p-3 w-50  text-brown">
             <h3>Custom Made</h3>
             <button className="btn btn-main">Order Now</button>
@@ -24,7 +32,8 @@ const Homepage = () => {
       <div className="row">
         <div className="col-12">
           {" "}
-          <img src="/images/animation_helmet.png" alt="" />
+          <Lottie className="lottieimg3" animationData={helmetAnimation} />
+          {/* <img className="animation" src="/images/animation_helmet.png" alt="" /> */}
           <div className="content-display-top-right d-flex flex-column position-absolute  p-3 w-50  text-right text-brown">
             <h3>Exceptional Home Decor</h3>
             <button className="btn btn-main">Discover</button>
