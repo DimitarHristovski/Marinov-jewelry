@@ -64,6 +64,7 @@ const Cart: NextPage<Props> = ({ items }) => {
           cartProducts.map((item) => (
             <div key={item.id} className="col-6  my-2">
               <Link href={`/items/${item.id}`}>
+                {" "}
                 <Card
                   images={item.images}
                   title={item.title}
@@ -100,7 +101,7 @@ const Cart: NextPage<Props> = ({ items }) => {
                   * Shipping costs not included.Proceed to checkout to calculate
                   shipping costs.
                 </p>
-                <Link href="/checkout">
+                <Link href="/Contact">
                   <button className="btn add-btn ">Checkout</button>
                 </Link>
               </div>
