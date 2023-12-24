@@ -1,5 +1,6 @@
 import ContactShippingDetails from "@/components/Cart/ContactShippingDetails";
 import React from "react";
+import PaymentComponent from "../components/Cart/Payment";
 
 const Cart = () => {
   return (
@@ -21,6 +22,7 @@ const Cart = () => {
           </div>
         </div>
       </div>
+      <PaymentComponent />
     </div>
   );
 };

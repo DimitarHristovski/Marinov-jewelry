@@ -46,3 +46,57 @@
 .order {
   color: rgba(60, 25, 19, 1);
 }
+
+.paymentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.paymentContainer img {
+  text-align: center;
+  width: 100px;
+}
+
+.info {
+  width: 343px;
+  height: 240px;
+
+  top: 314px;
+  left: 16px;
+  padding: 12px 20px;
+  border-radius: 32px 0px 32px 0px;
+  border: 1px solid #000; /* Add your desired border color */
+  gap: 8px;
+  text-align: left;
+  margin-top: 25px;
+}
+
+.info p {
+  font-size: 10px;
+}
+.info h3 {
+  font-size: 15px;
+}
+
+.two {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.close {
+  width: 343px;
+  height: 44px;
+  padding: 12px 24px;
+  border-radius: 16px 0px 16px 0px;
+  gap: 10px;
+  background-color: rgba(251, 250, 248, 1);
+  color: black;
+  margin-top: 15px;
+}
+
+.part label {
+  text-align: left;
+}
