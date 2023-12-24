@@ -21,7 +21,6 @@ const Cart = () => {
           </div>
         </div>
       </div>
-      <ContactShippingDetails />
     </div>
   );
 };
