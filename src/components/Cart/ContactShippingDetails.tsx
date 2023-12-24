@@ -74,7 +74,9 @@ const ContactShippingDetails: React.FC = () => {
             placeholder="Your street address here..."
           />
         </div>
-        <button type="submit">Proceed to Payment</button>
+        <button type="submit" className={style.button}>
+          Proceed to Payment
+        </button>
       </form>
     </div>
   );

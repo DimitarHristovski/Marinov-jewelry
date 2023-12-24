@@ -31,3 +31,13 @@
   width: 100%;
   text-align: left;
 }
+
+.button {
+  width: 343px;
+  height: 44px;
+  padding: 12px 24px;
+  border-radius: 16px 0px 16px 0px;
+  gap: 10px;
+  background-color: rgba(60, 25, 19, 1);
+  color: white;
+}
