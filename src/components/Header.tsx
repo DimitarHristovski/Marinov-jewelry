@@ -48,10 +48,10 @@ const Header = () => {
         </div>
 
         <div
-          className={`collapse navbar-collapse ${isCollapsed ? "" : "show"}`}
-          id="navbarToggleExternalContent"
+          className={`collapse navbar-collapse ${isCollapsed ? "" : "show "} `}
+          id="navbarToggleExternalContent "
         >
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul className="navbar-nav me-auto mb-2 mb-lg-0 ">
             <li className="nav-item">
               <Link href="/">
                 <span className="nav-link">Home</span>

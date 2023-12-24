@@ -75,12 +75,14 @@ const Cart: NextPage<Props> = ({ items }) => {
             </div>
           ))
         ) : (
-          <div className="col-12 content-display w-75 position-absolute">
-            <h1>Your Cart is Empty</h1>
+          <div className="col-12  w-75 position-absolute">
             <img
               src="/images/bg_spiral_butterfly_home_mobile.svg"
               alt="Empty Cart"
-            />
+            />{" "}
+            <h1 className="content-display w-75 position-absolute">
+              Your Cart is Empty
+            </h1>
           </div>
         )}
 
