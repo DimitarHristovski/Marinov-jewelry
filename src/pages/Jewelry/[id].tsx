@@ -2,7 +2,8 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useProductsContext } from "@/context/ProductContext";
 
 interface CareTip {
   tip1: string;
@@ -32,6 +33,17 @@ interface Props {
 
 const ItemDetailPage: NextPage<Props> = ({ items }) => {
   const [visibleTips, setVisibleTips] = useState(3);
+  const [isOrdered, setIsOrdered] = useState<boolean>(false);
+  const { cartProductIds, toggleCartProduct } = useProductsContext();
+
+  const handleAddToCart = () => {
+    toggleCartProduct(Number(items.id));
+    setIsOrdered(!isOrdered);
+  };
+
+  useEffect(() => {
+    setIsOrdered(cartProductIds.includes(Number(items.id)));
+  }, [cartProductIds, items.id]);
 
   const handleLoadMore = () => {
     setVisibleTips(items?.caretips.length || 0);
@@ -64,7 +76,21 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
       <div className="px-3">
         <h2 className="mt-3 px-3">{items.title}</h2>
         <p className="px-3">£ {items.price}</p>
-        <button className="add-btn"> Add to Cart </button>
+        <div className="d-flex justify-content-between m-3">
+          <div>
+            <button>-</button>
+            <button>1 </button>
+            <button> + </button>
+          </div>
+          <span> Save for later</span>
+        </div>
+        <button
+          className={`m-2 btn-custom p-2 add-btn ${isOrdered ? "ordered" : ""}`}
+          onClick={handleAddToCart}
+        >
+          {" "}
+          Add to Cart{" "}
+        </button>
       </div>
 
       <div>
@@ -100,7 +126,7 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
             console.log(tip);
             return (
               <li key={index}>
-                <strong>{tip.tip1}:</strong> {tip.tip1text}
+                <strong>- {tip.tip}</strong> {tip.tiptext}
               </li>
             );
           })}

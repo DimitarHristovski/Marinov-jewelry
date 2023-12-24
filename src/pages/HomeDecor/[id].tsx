@@ -2,8 +2,9 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import { useProductsContext } from "@/context/ProductContext";
 
 interface CareTip {
   tip: string;
@@ -31,6 +32,15 @@ interface Props {
 
 const ItemDetailPage: NextPage<Props> = ({ items }) => {
   const [visibleTips, setVisibleTips] = useState(3);
+  const [isOrdered, setIsOrdered] = useState<boolean>(false);
+  const { cartProductIds, toggleCartProduct } = useProductsContext();
+  const handleAddToCart = () => {
+    toggleCartProduct(Number(items.id));
+    setIsOrdered(!isOrdered);
+  };
+  useEffect(() => {
+    setIsOrdered(cartProductIds.includes(Number(items.id)));
+  }, [cartProductIds, items.id]);
 
   const handleLoadMore = () => {
     setVisibleTips(items?.caretips.length || 0);
@@ -71,7 +81,13 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
           </div>
           <span> Save for later</span>
         </div>
-        <button className="add-btn"> Add to Cart </button>
+        <button
+          className={`m-2 btn-custom p-2 add-btn ${isOrdered ? "ordered" : ""}`}
+          onClick={handleAddToCart}
+        >
+          {" "}
+          Add to Cart{" "}
+        </button>
       </div>
 
       <div>

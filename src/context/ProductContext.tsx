@@ -2,6 +2,7 @@ import React, { createContext, useEffect, useState } from "react";
 import { ProductType } from "@/type/type";
 
 interface ProductsContextType {
+  jewelryProducts: ProductType[];
   products: ProductType[];
   favoriteProductsIds: number[];
   cartProductIds: number[];
@@ -17,6 +18,8 @@ export const ProductsContextProvider: React.FC<{
   children: React.ReactNode;
 }> = ({ children }) => {
   const [products, setProducts] = useState<ProductType[]>([]);
+  const [jewelryProducts, setJewelryProducts] = useState<ProductType[]>([]);
+
   const [favoriteProductsIds, setFavoriteProductsIds] = useState<number[]>(
     getLocalStorageItem("favoriteProductsIds")
   );
@@ -27,9 +30,15 @@ export const ProductsContextProvider: React.FC<{
   useEffect(() => {
     const fetchProductData = async () => {
       try {
-        const response = await fetch("http://localhost:5000/marinovhome");
-        const data: ProductType[] = await response.json();
-        setProducts(data);
+        const homeResponse = await fetch("http://localhost:5000/marinovhome");
+        const homeData: ProductType[] = await homeResponse.json();
+        setProducts(homeData);
+
+        const jewelryResponse = await fetch(
+          "http://localhost:5000/marinovjewelry"
+        );
+        const jewelryData: ProductType[] = await jewelryResponse.json();
+        setJewelryProducts(jewelryData); // Set state for marinovjewelry products
       } catch (error) {
         console.error("Error fetching products:", error);
       }
@@ -45,12 +54,42 @@ export const ProductsContextProvider: React.FC<{
   const toggleFavorite = createToggleFunction(setFavoriteProductsIds);
   const toggleCartProduct = createToggleFunction(setCartProductIds);
 
+  function setLocalStorageItem(key: string, value: number[]) {
+    try {
+      localStorage.setItem(key, JSON.stringify(value));
+    } catch (error) {
+      console.error(`Error storing ${key} in localStorage:`, error);
+    }
+  }
+  function createToggleFunction(
+    setState: React.Dispatch<React.SetStateAction<number[]>>
+  ) {
+    return (productId: number) => {
+      setState((prevIds) => {
+        const index = prevIds.indexOf(productId);
+        if (index > -1) {
+          return prevIds.filter((id) => id !== productId);
+        } else {
+          return [...prevIds, productId];
+        }
+      });
+    };
+  }
+  function getLocalStorageItem(key: string): number[] {
+    try {
+      return JSON.parse(localStorage.getItem(key) || "[]");
+    } catch (error) {
+      console.error(`Error parsing ${key} from localStorage:`, error);
+      return [];
+    }
+  }
   const contextValue = {
     products,
     favoriteProductsIds,
     toggleFavorite,
     cartProductIds,
     toggleCartProduct,
+    jewelryProducts,
   };
 
   return (
@@ -59,37 +98,6 @@ export const ProductsContextProvider: React.FC<{
     </ProductsContext.Provider>
   );
 };
-
-function getLocalStorageItem(key: string): number[] {
-  try {
-    return JSON.parse(localStorage.getItem(key) || "[]");
-  } catch (error) {
-    console.error(`Error parsing ${key} from localStorage:`, error);
-    return [];
-  }
-}
-
-function setLocalStorageItem(key: string, value: number[]) {
-  try {
-    localStorage.setItem(key, JSON.stringify(value));
-  } catch (error) {
-    console.error(`Error storing ${key} in localStorage:`, error);
-  }
-}
-
-function createToggleFunction(
-  setState: React.Dispatch<React.SetStateAction<number[]>>
-) {
-  return (productId: number) => {
-    setState((prevIds) => {
-      if (prevIds.includes(productId)) {
-        return prevIds.filter((id) => id !== productId);
-      } else {
-        return [...prevIds, productId];
-      }
-    });
-  };
-}
 
 export const useProductsContext = () => {
   const context = React.useContext(ProductsContext);
