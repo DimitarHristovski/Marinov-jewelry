@@ -350,7 +350,7 @@ form {
   width: 100%;
 }
 .detail-image {
-  width: 40%;
+  width: 90%;
 }
 .show-more-btn {
   border: none;
@@ -370,4 +370,7 @@ form {
   border-radius: 16px 0px 16px 0px;
   border: 2px solid #9b4923;
   color: #9b4923;
+}
+.tips li {
+  list-style-type: none;
 }
