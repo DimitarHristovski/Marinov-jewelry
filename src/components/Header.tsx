@@ -11,8 +11,8 @@ const Header = () => {
   };
 
   return (
-    <nav className="navbar fixed-top navbar-expand-lg">
-      <div className="container">
+    <nav className="navbar fixed-top navbar-expand-lg  ">
+      <div className="container bg-transparent">
         <button
           className="navbar-toggler"
           type="button"
@@ -48,10 +48,12 @@ const Header = () => {
         </div>
 
         <div
-          className={`collapse navbar-collapse ${isCollapsed ? "" : "show"}`}
+          className={`collapse navbar-collapse ${
+            isCollapsed ? "" : "show "
+          } bg-transparent`}
           id="navbarToggleExternalContent"
         >
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul className="navbar-nav me-auto mb-2 mb-lg-0 ">
             <li className="nav-item">
               <Link href="/">
                 <span className="nav-link">Home</span>
@@ -86,7 +88,7 @@ const Header = () => {
             <li className="nav-item">
               <Link href="/Contact">
                 <span className="nav-link">Contact</span>
-              </Link> 
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link">Profile</a>

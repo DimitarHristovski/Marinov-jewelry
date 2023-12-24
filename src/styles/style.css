@@ -371,3 +371,6 @@ form {
   border: 2px solid #9b4923;
   color: #9b4923;
 }
+.custom-width {
+  width: 25%;
+}
