@@ -100,3 +100,10 @@
 .part label {
   text-align: left;
 }
+.visa {
+  margin-top: 30px;
+}
+
+.visa img {
+  width: 200px;
+}

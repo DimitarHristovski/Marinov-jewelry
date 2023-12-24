@@ -66,6 +66,9 @@ const PaymentComponent: React.FC = () => {
       <button type="submit" className={style.close}>
         Close
       </button>
+      <div className={style.visa}>
+        <img src="/images/Frame_2344.png" alt="" />
+      </div>
     </div>
   );
 };

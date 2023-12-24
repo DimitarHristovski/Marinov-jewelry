@@ -1,5 +1,6 @@
 import React from "react";
 import style from "./style.module.css";
+import Link from "next/link";
 
 const ContactShippingDetails: React.FC = () => {
   return (
@@ -78,9 +79,11 @@ const ContactShippingDetails: React.FC = () => {
           <p>Product</p>
           <p>Price</p>
         </div>
-        <button type="submit" className={style.button}>
-          Proceed to Payment
-        </button>
+        <Link href={"/payment"}>
+          <button type="submit" className={style.button}>
+            Proceed to Payment
+          </button>
+        </Link>
       </form>
     </div>
   );
