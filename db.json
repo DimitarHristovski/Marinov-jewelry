@@ -46,7 +46,7 @@
         },
         {
           "pic": "/images/helmet1.jpg"
-        }, 
+        },
         {
           "pic": "/images/helmet1.jpg"
         }
@@ -94,13 +94,13 @@
       ],
       "images": [
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-smol.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-smol.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-smol.png"
         }
       ]
     },
@@ -146,13 +146,13 @@
       ],
       "images": [
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         }
       ]
     },
@@ -198,13 +198,13 @@
       ],
       "images": [
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-smol.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-smol.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-smol.png"
         }
       ]
     },
@@ -250,13 +250,13 @@
       ],
       "images": [
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         }
       ]
     },
@@ -406,13 +406,13 @@
       ],
       "images": [
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         },
         {
-          "pic": "/images/helmet1.jpg"
+          "pic": "/images/helmet-med.png"
         }
       ]
     }
@@ -422,7 +422,7 @@
       "id": "0",
       "date": "2023-04-12",
       "title": "Copper Spiral & White Beads Earrings",
-      "price": 26.00,
+      "price": 26.0,
       "stock": 10,
       "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
       "material": "Copper,brass,faux pearl",
@@ -448,13 +448,13 @@
       ],
       "images": [
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earring-white.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earring-white.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earring-white.png"
         }
       ]
     },
@@ -462,7 +462,7 @@
       "id": "1",
       "date": "2023-04-12",
       "title": "Copper Spiral & Black Beads Earrings",
-      "price": 26.00,
+      "price": 26.0,
       "stock": 10,
       "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
       "material": "Copper,brass,faux pearl",
@@ -502,7 +502,7 @@
       "id": "2",
       "date": "2023-04-12",
       "title": "Copper & Pearl Earrings",
-      "price": 28.80,
+      "price": 28.8,
       "stock": 5,
       "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
       "material": "Copper,brass,faux pearl",
@@ -528,13 +528,13 @@
       ],
       "images": [
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earing-copper1.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earing-copper1.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earing-copper1.png"
         }
       ]
     },
@@ -542,7 +542,7 @@
       "id": "3",
       "date": "2023-04-12",
       "title": "Copper & Brown Agate Earrings",
-      "price": 32.00,
+      "price": 32.0,
       "stock": 5,
       "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
       "material": "Copper,brass,faux pearl",
@@ -568,13 +568,13 @@
       ],
       "images": [
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/copper-brown.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/copper-brown.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/copper-brown.png"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "id": "4",
       "date": "2023-04-12",
       "title": "Copper & Brass Plate Earrings",
-      "price": 18.00,
+      "price": 18.0,
       "stock": 5,
       "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
       "material": "Copper,brass,faux pearl",
@@ -608,13 +608,13 @@
       ],
       "images": [
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earring-brass.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earring-brass.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earring-brass.png"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "id": "5",
       "date": "2023-04-12",
       "title": "Copper & Brass Wire Earrings",
-      "price": 22.00,
+      "price": 22.0,
       "stock": 5,
       "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
       "material": "Copper,brass,faux pearl",
@@ -648,254 +648,255 @@
       ],
       "images": [
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earing-wire.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earing-wire.png"
         },
         {
-          "pic": "/images/earringsblack.jpg"
+          "pic": "/images/earing-wire.png"
         }
       ]
     },
     {
-        "id": "6",
-        "date": "2023-04-12",
-        "title": "Copper & Aventurine Earrings",
-        "price": 30.00,
-        "stock": 5,
-        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
-        "material": "Copper,brass,faux pearl",
-        "dimensions": "approx. 7 cm",
-        "weight": "14 g(per pair)",
-        "caretips": [
-          {
-            "tip": "Avoid Moisture:",
-            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
-          },
-          {
-            "tip": "Store Properly:",
-            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
-          },
-          {
-            "tip": "Clean Regularly:",
-            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
-          },
-          {
-            "tip": " Avoid Chemicals:",
-            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
-          }
-        ],
-        "images": [
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          }
-        ]
-      },
-      {
-        "id": "7",
-        "date": "2023-04-12",
-        "title": "Copper & Brass Earrings",
-        "price": 20.00,
-        "stock": 5,
-        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
-        "material": "Copper,brass,faux pearl",
-        "dimensions": "approx. 7 cm",
-        "weight": "14 g(per pair)",
-        "caretips": [
-          {
-            "tip": "Avoid Moisture:",
-            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
-          },
-          {
-            "tip": "Store Properly:",
-            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
-          },
-          {
-            "tip": "Clean Regularly:",
-            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
-          },
-          {
-            "tip": " Avoid Chemicals:",
-            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
-          }
-        ],
-        "images": [
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          }
-        ]
-      },
-      {
-        "id": "8",
-        "date": "2023-04-12",
-        "title": "Copper & Calcite Earrings",
-        "price": 30.00,
-        "stock": 0,
-        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
-        "material": "Copper,brass,faux pearl",
-        "dimensions": "approx. 7 cm",
-        "weight": "14 g(per pair)",
-        "caretips": [
-          {
-            "tip": "Avoid Moisture:",
-            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
-          },
-          {
-            "tip": "Store Properly:",
-            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
-          },
-          {
-            "tip": "Clean Regularly:",
-            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
-          },
-          {
-            "tip": " Avoid Chemicals:",
-            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
-          }
-        ],
-        "images": [
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          }
-        ]
-      },{
-        "id": "9",
-        "date": "2023-04-12",
-        "title": "Copper Spiral & Pale Jade Beads Earrings",
-        "price": 35.00,
-        "stock": 0,
-        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
-        "material": "Copper,brass,faux pearl",
-        "dimensions": "approx. 7 cm",
-        "weight": "14 g(per pair)",
-        "caretips": [
-          {
-            "tip": "Avoid Moisture:",
-            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
-          },
-          {
-            "tip": "Store Properly:",
-            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
-          },
-          {
-            "tip": "Clean Regularly:",
-            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
-          },
-          {
-            "tip": " Avoid Chemicals:",
-            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
-          }
-        ],
-        "images": [
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          }
-        ]
-      },
-      {
-        "id": "10",
-        "date": "2023-04-12",
-        "title": "Copper & Brass Earrings",
-        "price": 16.00,
-        "stock": 2,
-        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
-        "material": "Copper,brass,faux pearl",
-        "dimensions": "approx. 7 cm",
-        "weight": "14 g(per pair)",
-        "caretips": [
-          {
-            "tip": "Avoid Moisture:",
-            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
-          },
-          {
-            "tip": "Store Properly:",
-            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
-          },
-          {
-            "tip": "Clean Regularly:",
-            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
-          },
-          {
-            "tip": " Avoid Chemicals:",
-            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
-          }
-        ],
-        "images": [
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          }
-        ]
-      },
-      {
-        "id": "11",
-        "date": "2023-04-12",
-        "title": "Copper Triangle Earrings",
-        "price": 20.00,
-        "stock": 2,
-        "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
-        "material": "Copper,brass,faux pearl",
-        "dimensions": "approx. 7 cm",
-        "weight": "14 g(per pair)",
-        "caretips": [
-          {
-            "tip": "Avoid Moisture:",
-            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
-          },
-          {
-            "tip": "Store Properly:",
-            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
-          },
-          {
-            "tip": "Clean Regularly:",
-            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
-          },
-          {
-            "tip": " Avoid Chemicals:",
-            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
-          }
-        ],
-        "images": [
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          },
-          {
-            "pic": "/images/earringsblack.jpg"
-          }
-        ]
-      }
+      "id": "6",
+      "date": "2023-04-12",
+      "title": "Copper & Aventurine Earrings",
+      "price": 30.0,
+      "stock": 5,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic": "/images/earing-aventure.png"
+        },
+        {
+          "pic": "/images/earing-aventure.png"
+        },
+        {
+          "pic": "/images/earing-aventure.png"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "date": "2023-04-12",
+      "title": "Copper & Brass Earrings",
+      "price": 20.0,
+      "stock": 5,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic": "/images/earing-brass2.png"
+        },
+        {
+          "pic": "/images/earing-brass2.png"
+        },
+        {
+          "pic": "/images/earing-brass2.png"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "date": "2023-04-12",
+      "title": "Copper & Calcite Earrings",
+      "price": 30.0,
+      "stock": 0,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic": "/images/earing-caladite.png"
+        },
+        {
+          "pic": "/images/earing-caladite.png"
+        },
+        {
+          "pic": "/images/earing-caladite.png"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "date": "2023-04-12",
+      "title": "Copper Spiral & Pale Jade Beads Earrings",
+      "price": 35.0,
+      "stock": 0,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic": "/images/earing-jade.png"
+        },
+        {
+          "pic": "/images/earing-jade.png"
+        },
+        {
+          "pic": "/images/earing-jade.png"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "date": "2023-04-12",
+      "title": "Copper & Brass Earrings",
+      "price": 16.0,
+      "stock": 2,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic": "/images/earing-brass3.png"
+        },
+        {
+          "pic": "/images/earing-brass3.png"
+        },
+        {
+          "pic": "/images/earing-brass3.png"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "date": "2023-04-12",
+      "title": "Copper Triangle Earrings",
+      "price": 20.0,
+      "stock": 2,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "material": "Copper,brass,faux pearl",
+      "dimensions": "approx. 7 cm",
+      "weight": "14 g(per pair)",
+      "caretips": [
+        {
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "images": [
+        {
+          "pic": "/images/earring-triangle.png"
+        },
+        {
+          "pic": "/images/earring-triangle.png"
+        },
+        {
+          "pic": "/images/earring-triangle.png"
+        }
+      ]
+    }
   ]
 }
