@@ -7,7 +7,11 @@ import { ProductsContextProvider } from "@/context/ProductContext";
 
 export default function App({ Component, pageProps }: AppProps) {
   const router = useRouter();
-  const hideFooterHeader = router.pathname.includes("/Cart");
+  const hideFooterHeader =
+    router.pathname.includes("/Cart") ||
+    router.pathname.includes("/complete") ||
+    router.pathname.includes("/payment") ||
+    router.pathname.includes("/Contact");
 
   return (
     <>
