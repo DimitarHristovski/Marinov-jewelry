@@ -221,13 +221,16 @@
   text-decoration: underline;
 }
 .text-darkgreen {
-  color: #394e49;
+  color: #394e49 !important;
 }
 .btn-brown {
   background-color: #3c1913;
   border-radius: 16px 0px 16px 0px;
 }
-
+.link-no-style {
+  color: inherit;
+  text-decoration: none;
+}
 .text-brown {
   color: #394e49;
 }
