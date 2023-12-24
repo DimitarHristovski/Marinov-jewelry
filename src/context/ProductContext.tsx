@@ -1,11 +1,21 @@
-import React, { useEffect } from "react";
-import { ProductContext } from "./ProductContext";
+import React, { createContext, useEffect, useState } from "react";
+import { ProductType } from "@/type/type";
 
-interface Props {
-  children: React.ReactNode;
+interface ProductsContextType {
+  products: ProductType[];
+  favoriteProductsIds: number[];
+  cartProductIds: number[];
+  toggleFavorite: (productId: number) => void;
+  toggleCartProduct: (productId: number) => void;
 }
 
-export const ProductsProvider: React.FC<Props> = ({ children }) => {
+export const ProductsContext = createContext<ProductsContextType | undefined>(
+  undefined
+);
+
+export const ProductsContextProvider: React.FC<{
+  children: React.ReactNode;
+}> = ({ children }) => {
   const [products, setProducts] = useState<ProductType[]>([]);
   const [favoriteProductsIds, setFavoriteProductsIds] = useState<number[]>(
     getLocalStorageItem("favoriteProductsIds")
@@ -44,9 +54,9 @@ export const ProductsProvider: React.FC<Props> = ({ children }) => {
   };
 
   return (
-    <ProductContext.Provider value={contextValue}>
+    <ProductsContext.Provider value={contextValue}>
       {children}
-    </ProductContext.Provider>
+    </ProductsContext.Provider>
   );
 };
 
@@ -80,3 +90,13 @@ function createToggleFunction(
     });
   };
 }
+
+export const useProductsContext = () => {
+  const context = React.useContext(ProductsContext);
+  if (context === undefined) {
+    throw new Error(
+      "useProductsContext must be used within a ProductsContextProvider"
+    );
+  }
+  return context;
+};
