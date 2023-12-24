@@ -96,11 +96,14 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
       <div className="px-3">
         <h4>Care & Maintenance Tips:</h4>
         <ul>
-          {items.caretips.slice(0, visibleTips).map((tip, index) => (
-            <li key={index}>
-              <strong>{tip.tip1}:</strong> {tip.tip1text}
-            </li>
-          ))}
+          {items.caretips.slice(0, visibleTips).map((tip, index) => {
+            console.log(tip);
+            return (
+              <li key={index}>
+                <strong>{tip.tip1}:</strong> {tip.tip1text}
+              </li>
+            );
+          })}
         </ul>
         <div className="text-center">
           {visibleTips < items.caretips.length && (

@@ -1,7 +1,15 @@
-.navbar {
-  margin-top: 30px;
+body {
+  padding-top: 150px;
 }
 
+.navbar {
+  padding-top: 30px;
+  background-color: white;
+  z-index: 99999;
+}
+.navbar-collapse {
+  width: 200px;
+}
 .logo-image {
   width: 62.6px;
   height: 86px;
