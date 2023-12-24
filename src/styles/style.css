@@ -319,6 +319,16 @@ form {
   color: #3c1913;
   position: relative;
 }
+.showmore-btn {
+  flex: 1;
+  width: 100%;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
 .ask-btn {
   color: aliceblue;
   border-radius: 16px 0px 16px 0px;
