@@ -74,6 +74,11 @@ const ContactShippingDetails: React.FC = () => {
             placeholder="Your street address here..."
           />
         </div>
+        <h2 className={style.order}>Review Order</h2>
+        <div className="col-12 d-flex justify-content-between ">
+          <p>Product</p>
+          <p>Price</p>
+        </div>
         <button type="submit" className={style.button}>
           Proceed to Payment
         </button>

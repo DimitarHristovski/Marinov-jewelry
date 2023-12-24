@@ -20,6 +20,7 @@
 }
 .part input {
   margin-bottom: 20px;
+  border: 1px solid rgba(60, 25, 19, 0.5);
 }
 
 .part select {
@@ -40,4 +41,8 @@
   gap: 10px;
   background-color: rgba(60, 25, 19, 1);
   color: white;
+}
+
+.order {
+  color: rgba(60, 25, 19, 1);
 }
