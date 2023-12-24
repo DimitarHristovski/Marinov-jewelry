@@ -11,7 +11,7 @@ const Card: React.FC<CardProps> = ({ id, images, title, price }) => {
     <div className="col-12">
       {images.length > 0 && (
         <img
-          src={images[0].pic1}
+          src={images[0].pic}
           alt={title}
           className="d-block w-100 img-fluid m-1"
         />
