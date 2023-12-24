@@ -3,7 +3,7 @@ import "../styles/style.css";
 import Footer from "../components/Footer";
 import Header from "@/components/Header";
 import { useRouter } from "next/router";
-import { ProductsProvider } from "@/context/ProductContext";
+import { ProductsContextProvider } from "@/context/ProductContext";
 
 export default function App({ Component, pageProps }: AppProps) {
   const router = useRouter();
@@ -12,9 +12,9 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Header />{" "}
-      <ProductsProvider>
+      <ProductsContextProvider>
         <Component {...pageProps} />{" "}
-      </ProductsProvider>
+      </ProductsContextProvider>
       {!hideFooterHeader && <Footer />}{" "}
     </>
   );
