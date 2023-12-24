@@ -45,7 +45,6 @@ const Homepage = () => {
       </div>
       <div className="row">
         <div className="col-12 my-2">
-          {" "}
           <img src="/images/Ohrid_razglednica_1913.png" alt="" />
           <h1>Over a century old tradition</h1>
           <p>
@@ -63,8 +62,7 @@ const Homepage = () => {
           {" "}
           <img src="/images/ohrid_old_town.png" alt="" />
           <div className="d-flex flex-column position-absolute content-display-bottom p-3 w-75 ">
-            {" "}
-            <h1>Visit Our Shop</h1>{" "}
+            <h1>Visit Our Shop</h1>
             <p>
               Come meet us at the heart of Ohrid’s old town and experience the
               art of craftsmanship firsthand!
@@ -77,11 +75,9 @@ const Homepage = () => {
       </div>
       <div className="row">
         <div className="col-12">
-          {" "}
           <h1>What Our Clients Say</h1>
           <div>
-            {" "}
-            <img src="\images\“.png" alt="" />{" "}
+            <img src="\images\“.png" alt="" />
             <p>
               “I stumbled upon Marinov during my trip to Ohrid, and I'm so glad
               I did. Their shop is a hidden gem filled with beautifully
@@ -94,7 +90,7 @@ const Homepage = () => {
             <img src="\images\”.png" alt="" />
           </div>
           <div>
-            <img src="\images\“.png" alt="" />{" "}
+            <img src="\images\“.png" alt="" />
             <p>
               I recently purchased a copper necklace from Marinov, and I
               couldn't be happier with my choice. The craftsmanship is
@@ -109,7 +105,7 @@ const Homepage = () => {
             <img src="\images\”.png" alt="" />
           </div>
           <div>
-            <img src="\images\“.png" alt="" />{" "}
+            <img src="\images\“.png" alt="" />
             <p>
               Marinov's copper products reflect the essence of Ohrid's rich
               heritage. I ordered a custom-made copper lamp for my home, and it
