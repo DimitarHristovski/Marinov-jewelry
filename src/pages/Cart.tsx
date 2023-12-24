@@ -60,35 +60,54 @@ const Cart: NextPage<Props> = ({ items }) => {
           <p>Price</p>
         </div>
 
-        <div className="col-12">
-          {cartProducts.length > 0 ? (
-            cartProducts.map((item) => (
-              <div key={item.id} className="col-6">
-                <Link href={`/items/${item.id}`}>
-                  <Card
-                    images={item.images}
-                    title={item.title}
-                    price={item.price}
-                    id={item.id}
-                  />
+        {cartProducts.length > 0 ? (
+          cartProducts.map((item) => (
+            <div key={item.id} className="col-6  my-2">
+              <Link href={`/items/${item.id}`}>
+                <Card
+                  images={item.images}
+                  title={item.title}
+                  price={item.price}
+                  id={item.id}
+                />
+              </Link>
+            </div>
+          ))
+        ) : (
+          <div className="col-12 content-display w-75 position-absolute">
+            <h1>Your Cart is Empty</h1>
+            <img
+              src="/images/bg_spiral_butterfly_home_mobile.svg"
+              alt="Empty Cart"
+            />
+          </div>
+        )}
+
+        {cartProducts.length > 0 && (
+          <div className="d-flex flex-column w-100">
+            <hr />
+            <div className="row">
+              <div className="col-12 d-flex justify-content-around">
+                <p className="font-weight-bold col-6">Subtotal:</p>
+                <p className="font-weight-bold col-6 text-right">
+                  € {totalPrice.toFixed(2)}
+                </p>
+              </div>
+            </div>
+            <div className="row ">
+              <div className="col-12 ">
+                <p className="mx-2">
+                  * Shipping costs not included.Proceed to checkout to calculate
+                  shipping costs.
+                </p>
+                <Link href="/checkout">
+                  <button className="btn add-btn ">Checkout</button>
                 </Link>
               </div>
-            ))
-          ) : (
-            <div className="content-display w-75 position-absolute">
-              <h1>Your Cart is Empty</h1>
-              <img src="/images/bg_spiral_butterfly_home_mobile.svg" alt="" />
             </div>
-          )}
-        </div>
-      </div>
-      {cartProducts.length > 0 && (
-        <div className="row">
-          <div className="col-12">
-            <p>Total Price: {totalPrice}</p>
           </div>
-        </div>
-      )}
+        )}
+      </div>
     </div>
   );
 };
