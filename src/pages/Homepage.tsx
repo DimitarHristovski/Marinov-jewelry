@@ -8,7 +8,7 @@ const Homepage = () => {
           <img src="/images/animation_bracelet.png" alt="" />
           <div className="content-display-top-right d-flex flex-column position-absolute  p-3 w-50 text-brown text-right">
             <h3>Unique Handcrafted Jewelry</h3>
-            <button>Shop Now</button>
+            <button className="btn btn-main">Shop Now</button>
           </div>
         </div>
       </div>
@@ -17,7 +17,7 @@ const Homepage = () => {
           <img src="/images/animation_bee.png" alt="" />
           <div className="content-display-top-left d-flex flex-column position-absolute  p-3 w-50  text-brown">
             <h3>Custom Made</h3>
-            <button>Order Now</button>
+            <button className="btn btn-main">Order Now</button>
           </div>
         </div>
       </div>
@@ -27,7 +27,7 @@ const Homepage = () => {
           <img src="/images/animation_helmet.png" alt="" />
           <div className="content-display-top-right d-flex flex-column position-absolute  p-3 w-50  text-right text-brown">
             <h3>Exceptional Home Decor</h3>
-            <button>Discover</button>
+            <button className="btn btn-main">Discover</button>
           </div>
         </div>
       </div>
@@ -61,17 +61,17 @@ const Homepage = () => {
         </div>
       </div>
       <div className="row">
-        <div className="col-12 position-relative my-2">
+        <div className="col-12 position-relative my-2 ">
           {" "}
           <img src="/images/ohrid_old_town.png" alt="" />
-          <div className="d-flex flex-column position-absolute content-display-bottom p-3 w-75">
+          <div className="d-flex flex-column position-absolute content-display-bottom p-3 w-75 ">
             {" "}
             <h1>Visit Our Shop</h1>{" "}
             <p>
               Come meet us at the heart of Ohrid’s old town and experience the
               art of craftsmanship firsthand!
             </p>
-            <button className="btn btn-brown text-light w-75">
+            <button className="btn btn-brown text-light w-75 ">
               Contact Details
             </button>
           </div>
