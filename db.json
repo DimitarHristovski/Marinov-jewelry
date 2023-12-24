@@ -12,43 +12,43 @@
       "weight": "3.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }, 
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -64,43 +64,43 @@
       "weight": "1.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -116,43 +116,43 @@
       "weight": "2.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -168,43 +168,43 @@
       "weight": "1.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -220,43 +220,43 @@
       "weight": "2.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -272,43 +272,43 @@
       "weight": "3.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -324,43 +324,43 @@
       "weight": "3.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     },
@@ -376,43 +376,43 @@
       "weight": "2.5 kg",
       "caretips": [
         {
-          "tip1": "Regular Dusting:",
-          "tip1text": " Wipe with a soft, lint-free cloth to prevent buildup."
+          "tip": "Regular Dusting:",
+          "tiptext": " Wipe with a soft, lint-free cloth to prevent buildup."
         },
         {
-          "tip2": "Cleaning: ",
-          "tip2text": "Use mild soap and warm water; avoid abrasive tools."
+          "tip": "Cleaning: ",
+          "tiptext": "Use mild soap and warm water; avoid abrasive tools."
         },
         {
-          "tip3": "Natural Patina:",
-          "tip3text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip4": "Natural Patina:",
-          "tip4text": " Embrace natural tarnish for an aged look or polish for shine."
+          "tip": "Natural Patina:",
+          "tiptext": " Embrace natural tarnish for an aged look or polish for shine."
         },
         {
-          "tip5": "Avoid Moisture:",
-          "tip5text": " Dry thoroughly after exposure to water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Dry thoroughly after exposure to water."
         },
         {
-          "tip6": "Storage:",
-          "tip6text": " Store in a cool, dry place away from direct sunligh."
+          "tip": "Storage:",
+          "tiptext": " Store in a cool, dry place away from direct sunligh."
         },
         {
-          "tip7": "No Harsh Chemicals:",
-          "tip7text": " Avoid bleach and abrasive cleaners."
+          "tip": "No Harsh Chemicals:",
+          "tiptext": " Avoid bleach and abrasive cleaners."
         }
       ],
       "images": [
         {
-          "pic1": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic2": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         },
         {
-          "pic3": "/images/helmet1.jpg"
+          "pic": "/images/helmet1.jpg"
         }
       ]
     }
@@ -430,31 +430,31 @@
       "weight": "14 g(per pair)",
       "caretips": [
         {
-          "tip1": "Avoid Moisture:",
-          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
         },
         {
-          "tip2": "Store Properly:",
-          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
         },
         {
-          "tip3": "Clean Regularly:",
-          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
         },
         {
-          "tip4": " Avoid Chemicals:",
-          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
         }
       ],
       "images": [
         {
-          "pic1": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic2": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic3": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         }
       ]
     },
@@ -470,31 +470,31 @@
       "weight": "14 g(per pair)",
       "caretips": [
         {
-          "tip1": "Avoid Moisture:",
-          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
         },
         {
-          "tip2": "Store Properly:",
-          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
         },
         {
-          "tip3": "Clean Regularly:",
-          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
         },
         {
-          "tip4": " Avoid Chemicals:",
-          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
         }
       ],
       "images": [
         {
-          "pic1": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic2": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic3": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         }
       ]
     },
@@ -510,31 +510,31 @@
       "weight": "14 g(per pair)",
       "caretips": [
         {
-          "tip1": "Avoid Moisture:",
-          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
         },
         {
-          "tip2": "Store Properly:",
-          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
         },
         {
-          "tip3": "Clean Regularly:",
-          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
         },
         {
-          "tip4": " Avoid Chemicals:",
-          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
         }
       ],
       "images": [
         {
-          "pic1": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic2": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic3": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         }
       ]
     },
@@ -550,31 +550,31 @@
       "weight": "14 g(per pair)",
       "caretips": [
         {
-          "tip1": "Avoid Moisture:",
-          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
         },
         {
-          "tip2": "Store Properly:",
-          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
         },
         {
-          "tip3": "Clean Regularly:",
-          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
         },
         {
-          "tip4": " Avoid Chemicals:",
-          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
         }
       ],
       "images": [
         {
-          "pic1": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic2": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic3": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         }
       ]
     },
@@ -590,31 +590,31 @@
       "weight": "14 g(per pair)",
       "caretips": [
         {
-          "tip1": "Avoid Moisture:",
-          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
         },
         {
-          "tip2": "Store Properly:",
-          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
         },
         {
-          "tip3": "Clean Regularly:",
-          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
         },
         {
-          "tip4": " Avoid Chemicals:",
-          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
         }
       ],
       "images": [
         {
-          "pic1": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic2": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic3": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         }
       ]
     },
@@ -630,31 +630,31 @@
       "weight": "14 g(per pair)",
       "caretips": [
         {
-          "tip1": "Avoid Moisture:",
-          "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+          "tip": "Avoid Moisture:",
+          "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
         },
         {
-          "tip2": "Store Properly:",
-          "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+          "tip": "Store Properly:",
+          "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
         },
         {
-          "tip3": "Clean Regularly:",
-          "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+          "tip": "Clean Regularly:",
+          "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
         },
         {
-          "tip4": " Avoid Chemicals:",
-          "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+          "tip": " Avoid Chemicals:",
+          "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
         }
       ],
       "images": [
         {
-          "pic1": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic2": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         },
         {
-          "pic3": "/images/earringsblack.jpg"
+          "pic": "/images/earringsblack.jpg"
         }
       ]
     },
@@ -670,31 +670,31 @@
         "weight": "14 g(per pair)",
         "caretips": [
           {
-            "tip1": "Avoid Moisture:",
-            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+            "tip": "Avoid Moisture:",
+            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
           },
           {
-            "tip2": "Store Properly:",
-            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+            "tip": "Store Properly:",
+            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
           },
           {
-            "tip3": "Clean Regularly:",
-            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+            "tip": "Clean Regularly:",
+            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
           },
           {
-            "tip4": " Avoid Chemicals:",
-            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+            "tip": " Avoid Chemicals:",
+            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
           }
         ],
         "images": [
           {
-            "pic1": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic2": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic3": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           }
         ]
       },
@@ -710,31 +710,31 @@
         "weight": "14 g(per pair)",
         "caretips": [
           {
-            "tip1": "Avoid Moisture:",
-            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+            "tip": "Avoid Moisture:",
+            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
           },
           {
-            "tip2": "Store Properly:",
-            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+            "tip": "Store Properly:",
+            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
           },
           {
-            "tip3": "Clean Regularly:",
-            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+            "tip": "Clean Regularly:",
+            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
           },
           {
-            "tip4": " Avoid Chemicals:",
-            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+            "tip": " Avoid Chemicals:",
+            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
           }
         ],
         "images": [
           {
-            "pic1": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic2": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic3": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           }
         ]
       },
@@ -750,31 +750,31 @@
         "weight": "14 g(per pair)",
         "caretips": [
           {
-            "tip1": "Avoid Moisture:",
-            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+            "tip": "Avoid Moisture:",
+            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
           },
           {
-            "tip2": "Store Properly:",
-            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+            "tip": "Store Properly:",
+            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
           },
           {
-            "tip3": "Clean Regularly:",
-            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+            "tip": "Clean Regularly:",
+            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
           },
           {
-            "tip4": " Avoid Chemicals:",
-            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+            "tip": " Avoid Chemicals:",
+            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
           }
         ],
         "images": [
           {
-            "pic1": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic2": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic3": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           }
         ]
       },{
@@ -789,31 +789,31 @@
         "weight": "14 g(per pair)",
         "caretips": [
           {
-            "tip1": "Avoid Moisture:",
-            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+            "tip": "Avoid Moisture:",
+            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
           },
           {
-            "tip2": "Store Properly:",
-            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+            "tip": "Store Properly:",
+            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
           },
           {
-            "tip3": "Clean Regularly:",
-            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+            "tip": "Clean Regularly:",
+            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
           },
           {
-            "tip4": " Avoid Chemicals:",
-            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+            "tip": " Avoid Chemicals:",
+            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
           }
         ],
         "images": [
           {
-            "pic1": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic2": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic3": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           }
         ]
       },
@@ -829,31 +829,31 @@
         "weight": "14 g(per pair)",
         "caretips": [
           {
-            "tip1": "Avoid Moisture:",
-            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+            "tip": "Avoid Moisture:",
+            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
           },
           {
-            "tip2": "Store Properly:",
-            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+            "tip": "Store Properly:",
+            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
           },
           {
-            "tip3": "Clean Regularly:",
-            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+            "tip": "Clean Regularly:",
+            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
           },
           {
-            "tip4": " Avoid Chemicals:",
-            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+            "tip": " Avoid Chemicals:",
+            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
           }
         ],
         "images": [
           {
-            "pic1": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic2": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic3": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           }
         ]
       },
@@ -869,31 +869,31 @@
         "weight": "14 g(per pair)",
         "caretips": [
           {
-            "tip1": "Avoid Moisture:",
-            "tip1text": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+            "tip": "Avoid Moisture:",
+            "tiptext": " Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
           },
           {
-            "tip2": "Store Properly:",
-            "tip2text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+            "tip": "Store Properly:",
+            "tiptext": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
           },
           {
-            "tip3": "Clean Regularly:",
-            "tip3text": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+            "tip": "Clean Regularly:",
+            "tiptext": " To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
           },
           {
-            "tip4": " Avoid Chemicals:",
-            "tip4text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+            "tip": " Avoid Chemicals:",
+            "tiptext": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products. Gentle Handling: Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
           }
         ],
         "images": [
           {
-            "pic1": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic2": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           },
           {
-            "pic3": "/images/earringsblack.jpg"
+            "pic": "/images/earringsblack.jpg"
           }
         ]
       }

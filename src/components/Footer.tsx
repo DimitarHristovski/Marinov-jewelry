@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Footer = () => {
@@ -17,7 +18,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="row">
+      <div className="row mx-1">
         <div className="col-12">
           <h1 className="text-uppercase my-2">Marinov</h1>
           <div className="d-flex justify-content-between">
@@ -44,13 +45,22 @@ const Footer = () => {
           <p>Helmets</p>
           <p>Other</p>
         </div>
-        <div className="col-12 d-flex flex-column text-uppercase">
-          <h3>Custom Orders</h3>
-          <h3>Our story</h3>
-          <h3>FAQ</h3>
-          <h3>Contact</h3>
+        <div className="col-12 d-flex flex-column text-uppercase link-no-style">
+          <Link href="/custom" className="link-no-style">
+            <h3>Custom Orders</h3>
+          </Link>
+          <Link href="/ourstory" className="link-no-style">
+            <h3>Our story</h3>
+          </Link>
+          <Link href="/faq" className="link-no-style">
+            <h3>FAQ</h3>
+          </Link>
+          <Link href="/Contact" className="link-no-style">
+            <h3>Contact</h3>
+          </Link>
           <h3>Profile</h3>
         </div>
+
         <div className=" col-12 d-flex justify-content-start">
           <i className="fab fa-instagram fa-3x  m-2"></i>
           <i className="fab fa-facebook fa-3x m-2"></i>

@@ -37,11 +37,14 @@ const Header = () => {
           <img src="/images/name.png" alt="" />
         </div>
         <div className="shopping-card">
-          <img
-            src="/images/Vector.png"
-            alt="shopping-card image"
-            className="shopping-card"
-          />
+          <Link href="/Cart">
+            {" "}
+            <img
+              src="/images/Vector.png"
+              alt="shopping-card image"
+              className="shopping-card"
+            />
+          </Link>
         </div>
 
         <div
@@ -55,7 +58,9 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Jewerly</a>
+              <Link href="/Jewelry">
+                <a className="nav-link">Jewerly</a>{" "}
+              </Link>
             </li>
             <li className="nav-item">
               <Link href="/HomeDecor">
@@ -64,7 +69,9 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Custom orders</a>
+              <Link href="/custom">
+                <span className="nav-link">Custom orders</span>
+              </Link>
             </li>
             <li className="nav-item">
               <Link href="/ourstory">
@@ -72,16 +79,22 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">FAQ</a>
+              <Link href="/faq">
+                <span className="nav-link">FAQ</span>
+              </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Contact</a>
+              <Link href="/Contact">
+                <span className="nav-link">Contact</span>
+              </Link> 
             </li>
             <li className="nav-item">
               <a className="nav-link">Profile</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">Cart</a>
+              <Link href="/Cart">
+                <span className="nav-link">Cart</span>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link">Checkout</a>
