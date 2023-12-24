@@ -11,9 +11,7 @@ interface CareTip {
 }
 
 interface Image {
-  pic1: string;
-  pic2: string;
-  pic3: string;
+  pic: string;
 }
 interface ProductType {
   id: string;
@@ -65,8 +63,8 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
           {items.images.map((image, index) => (
             <div key={index}>
               <img
-                src={image.pic1}
-                alt={image.pic1}
+                src={image.pic}
+                alt={image.pic}
                 className="detail-image-carousel"
               />
             </div>
