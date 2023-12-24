@@ -9,7 +9,8 @@ export default function App({ Component, pageProps }: AppProps) {
   const hideFooterHeader =
     router.pathname.includes("/Cart") ||
     router.pathname === "/payment" ||
-    router.pathname === "/Contact";
+    router.pathname === "/Contact" ||
+    router.pathname === "/complete";
 
   return (
     <>

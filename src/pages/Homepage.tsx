@@ -33,10 +33,8 @@ const Homepage = () => {
       </div>
       <div className="row">
         <div className="col-12">
-          {" "}
           <img src="/images/bg_spiral_butterfly_home_mobile.svg" alt="" />
           <div className="content-display-bottom w-75 position-absolute">
-            {" "}
             <h1>Always unique, never exactly the same!</h1>
             <p>
               Each piece is handcrafted with meticulous attention to detail in

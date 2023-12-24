@@ -107,3 +107,15 @@
 .visa img {
   width: 200px;
 }
+
+.complete {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.complete p {
+  margin: 15px 0;
+}
