@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import ContactShippingDetails from "../components/Cart/ContactShippingDetails";
 
 const Contact = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <>
+      <ContactShippingDetails />;
+    </>
+  );
+};
 
-export default Contact
+export default Contact;

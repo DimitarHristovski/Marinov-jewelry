@@ -1,0 +1,121 @@
+.main {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.main h2 {
+  font-size: 48px;
+  text-align: left;
+  margin: 0 auto;
+}
+.part {
+  display: flex;
+  flex-direction: column;
+}
+
+.part label {
+  margin-bottom: 5px;
+}
+.part input {
+  margin-bottom: 20px;
+  border: 1px solid rgba(60, 25, 19, 0.5);
+}
+
+.part select {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form {
+  width: 100%;
+  text-align: left;
+}
+
+.button {
+  width: 343px;
+  height: 44px;
+  padding: 12px 24px;
+  border-radius: 16px 0px 16px 0px;
+  gap: 10px;
+  background-color: rgba(60, 25, 19, 1);
+  color: white;
+}
+
+.order {
+  color: rgba(60, 25, 19, 1);
+}
+
+.paymentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.paymentContainer img {
+  text-align: center;
+  width: 100px;
+}
+
+.info {
+  width: 343px;
+  height: 240px;
+
+  top: 314px;
+  left: 16px;
+  padding: 12px 20px;
+  border-radius: 32px 0px 32px 0px;
+  border: 1px solid #000; /* Add your desired border color */
+  gap: 8px;
+  text-align: left;
+  margin-top: 25px;
+}
+
+.info p {
+  font-size: 10px;
+}
+.info h3 {
+  font-size: 15px;
+}
+
+.two {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.close {
+  width: 343px;
+  height: 44px;
+  padding: 12px 24px;
+  border-radius: 16px 0px 16px 0px;
+  gap: 10px;
+  background-color: rgba(251, 250, 248, 1);
+  color: black;
+  margin-top: 15px;
+}
+
+.part label {
+  text-align: left;
+}
+.visa {
+  margin-top: 30px;
+}
+
+.visa img {
+  width: 200px;
+}
+
+.complete {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.complete p {
+  margin: 15px 0;
+}
