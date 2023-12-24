@@ -3,16 +3,15 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 interface CareTip {
-  tip1: string;
-  tip1text: string;
+  tip: string;
+  tiptext: string;
 }
 
 interface Image {
-  pic1: string;
-  pic2: string;
-  pic3: string;
+  pic: string;
 }
 interface ProductType {
   id: string;
@@ -53,8 +52,8 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
           {items.images.map((image, index) => (
             <div key={index}>
               <img
-                src={image.pic1}
-                alt={image.pic1}
+                src={image.pic}
+                alt={image.pic}
                 className="detail-image-carousel"
               />
             </div>
@@ -63,7 +62,15 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
       </div>
       <div className="px-3">
         <h2 className="mt-3 px-3">{items.title}</h2>
-        <p className="px-3">£ {items.price}</p>
+        <h3 className="px-3">£ {items.price}.00</h3>
+        <div className="d-flex justify-content-between m-3">
+          <div>
+            <button>-</button>
+            <button>1 </button>
+            <button> + </button>
+          </div>
+          <span> Save for later</span>
+        </div>
         <button className="add-btn"> Add to Cart </button>
       </div>
 
@@ -80,27 +87,27 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
         )}
       </div>
 
-      <div className="px-3 desc-inner">
+      <div className="px-3 py-5 desc-inner">
         <p className="pt-5">{items.description}</p>
         <p>
-          <span>Material:</span> {items.material}
+          <strong>Material:</strong> {items.material}
         </p>
         <p>
-          <span>Dimensions:</span> {items.dimensions}
+          <strong>Dimensions:</strong> {items.dimensions}
         </p>
         <p>
-          <span>Weight:</span> {items.weight}
+          <strong>Weight:</strong> {items.weight}
         </p>
       </div>
 
-      <div className="px-3">
+      <div className="px-3 py-3">
         <h4>Care & Maintenance Tips:</h4>
-        <ul>
+        <ul className="tips">
           {items.caretips.slice(0, visibleTips).map((tip, index) => {
             console.log(tip);
             return (
               <li key={index}>
-                <strong>{tip.tip1}:</strong> {tip.tip1text}
+                <strong>- {tip.tip}</strong> {tip.tiptext}
               </li>
             );
           })}
@@ -117,12 +124,17 @@ const ItemDetailPage: NextPage<Props> = ({ items }) => {
       </div>
       <div>
         <h3>You Might Also Like:</h3>
-        {items.images.map((image, index) => (
-          <div key={index}>
-            <img src={image.pic1} alt={image.pic1} className="detail-image" />
-          </div>
-        ))}
-        <p>{items.title}</p>
+        <div className="d-flex">
+          {items.images.map((image, index) => (
+            <div key={index}>
+              <img src={image.pic} alt={image.pic} className="detail-image" />
+              <p className="mb-0">
+                <strong>{items.title}</strong>
+              </p>
+              <p>£ {items.price}.00</p>
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );

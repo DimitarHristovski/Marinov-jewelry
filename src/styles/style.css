@@ -350,7 +350,7 @@ form {
   width: 100%;
 }
 .detail-image {
-  width: 40%;
+  width: 90%;
 }
 .show-more-btn {
   border: none;
@@ -373,4 +373,7 @@ form {
 }
 .custom-width {
   width: 25%;
+}
+.tips li {
+  list-style-type: none;
 }
