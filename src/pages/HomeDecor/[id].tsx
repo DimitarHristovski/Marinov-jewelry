@@ -1,25 +1,44 @@
-import React, { useState } from "react";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Slider from "react-slick";
-import { ProductType } from "@/type/type";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import { useState } from "react";
 
-interface Props {
-  items: ProductType;
-  images: Array<{ [key: string]: string }>;
-  pic1: string;
+interface CareTip {
+  tip1: string;
+  tip1text: string;
 }
 
-const ItemDetailPage: NextPage<Props> = ({ items, images, pic1 }) => {
+interface Image {
+  pic1: string;
+  pic2: string;
+  pic3: string;
+}
+interface ProductType {
+  id: string;
+  title: string;
+  price: number;
+  stock: number;
+  description: string;
+  material: string;
+  dimensions: string;
+  weight: string;
+  caretips: CareTip[];
+  images: Image[];
+}
+interface Props {
+  items: ProductType;
+}
+
+const ItemDetailPage: NextPage<Props> = ({ items }) => {
   const [visibleTips, setVisibleTips] = useState(3);
 
   const handleLoadMore = () => {
-    setVisibleTips(items.caretips.length || 0);
+    setVisibleTips(items?.caretips.length || 0);
   };
-
   if (!items) {
-    return <div>Item doesn't exist...</div>;
+    return <div> item doesnt exist...</div>;
   }
-
   const carouselSettings = {
     dots: true,
     infinite: true,
@@ -27,35 +46,31 @@ const ItemDetailPage: NextPage<Props> = ({ items, images, pic1 }) => {
     slidesToShow: 1,
     slidesToScroll: 1,
   };
-
   return (
-    <div className="container">
-      <div className="row">
-        <div className="col-12">
-          {/* <Slider {...carouselSettings}>
-            {items.images.map((imageObj, index) => (
-              <div key={index}>
-                <img
-                  src={Object.values(imageObj)[0]}
-                  alt={`Image ${index + 1}`}
-                />
-              </div>
-            ))}
-          </Slider> */}
-        </div>
+    <div className="detail-page">
+      <div>
+        <Slider {...carouselSettings}>
+          {items.images.map((image, index) => (
+            <div key={index}>
+              <img
+                src={image.pic1}
+                alt={image.pic1}
+                className="detail-image-carousel"
+              />
+            </div>
+          ))}
+        </Slider>
+      </div>
+      <div className="px-3">
+        <h2 className="mt-3 px-3">{items.title}</h2>
+        <p className="px-3">£ {items.price}</p>
+        <button className="add-btn"> Add to Cart </button>
+      </div>
 
-        <div className="col-12">
-          <h2>{items.title}</h2>
-          <p>Price: {items.price}</p>
-          <p>{items.description}</p>
-          <p>Material: {items.material}</p>
-          <p>Dimensions: {items.dimensions}</p>
-          <p>Weight: {items.weight}</p>
-        </div>
-
+      <div>
         {items.stock === 0 && (
-          <div className="col-12">
-            <p>- Out of Stock -</p>
+          <div>
+            <p> - Out of Stock -</p>
             <p>
               Unfortunately, this item has been sold. But all is not lost! Write
               to us and we'll do our best to replicate it for you!
@@ -63,30 +78,51 @@ const ItemDetailPage: NextPage<Props> = ({ items, images, pic1 }) => {
             <button>Request Custom order</button>
           </div>
         )}
+      </div>
 
-        <div className="col-12">
-          <h4>Care & Maintenance Tips:</h4>
-          <ul>
-            {items.caretips.slice(0, visibleTips).map((tip, index) => (
+      <div className="px-3 desc-inner">
+        <p className="pt-5">{items.description}</p>
+        <p>
+          <span>Material:</span> {items.material}
+        </p>
+        <p>
+          <span>Dimensions:</span> {items.dimensions}
+        </p>
+        <p>
+          <span>Weight:</span> {items.weight}
+        </p>
+      </div>
+
+      <div className="px-3">
+        <h4>Care & Maintenance Tips:</h4>
+        <ul>
+          {items.caretips.slice(0, visibleTips).map((tip, index) => {
+            console.log(tip);
+            return (
               <li key={index}>
-                <strong>{Object.keys(tip)[0]}:</strong> {Object.values(tip)[0]}
+                <strong>{tip.tip1}:</strong> {tip.tip1text}
               </li>
-            ))}
-          </ul>
+            );
+          })}
+        </ul>
+        <div className="text-center">
           {visibleTips < items.caretips.length && (
-            <button onClick={handleLoadMore}>Load More</button>
+            <button onClick={handleLoadMore} className="show-more-btn">
+              + Show more
+            </button>
           )}
         </div>
-        {/* 
-        <div className="col-12">
-          <h3>You Might Also Like:</h3>
-          {items.images.map((image, index) => (
-            <div key={index}>
-              <img src={Object.values(image)[0]} alt={`Image ${index + 1}`} />
-            </div>
-          ))}
-          <p>{items.title}</p>
-        </div> */}
+
+        <p>Follow these tips for enduring beauty.</p>
+      </div>
+      <div>
+        <h3>You Might Also Like:</h3>
+        {items.images.map((image, index) => (
+          <div key={index}>
+            <img src={image.pic1} alt={image.pic1} className="detail-image" />
+          </div>
+        ))}
+        <p>{items.title}</p>
       </div>
     </div>
   );
