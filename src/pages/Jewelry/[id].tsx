@@ -11,9 +11,7 @@ interface CareTip {
 }
 
 interface Image {
-  pic1: string;
-  pic2: string;
-  pic3: string;
+  pic: string;
 }
 interface ProductType {
   id: string;
