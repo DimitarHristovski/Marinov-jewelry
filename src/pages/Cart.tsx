@@ -53,7 +53,7 @@ const Cart: NextPage<Props> = ({ items }) => {
       <div className="row brown-color">
         <div className="col-12">
           <h1>Your Cart</h1>
-          <button className="btn btn-main">Continue Shopping</button>
+          <button className="btn btn-main m-auto">Continue Shopping</button>
         </div>
         <div className="col-12 d-flex justify-content-between ">
           <p>Product</p>
